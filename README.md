@@ -1,0 +1,2 @@
+# terserRepo
+mi primerpaquete pip
